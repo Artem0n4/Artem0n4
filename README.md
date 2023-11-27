@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+developer+of+minecraft+mods+based+horizon+modding+kernel)](https://git.io/typing-svg)
+### Приветствую в своём профиле 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+разработчик+нескольких+модов)](https://git.io/typing-svg)
 <!--
 **Artem0n4/Artem0n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
